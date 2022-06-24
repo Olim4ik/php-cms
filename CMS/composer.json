@@ -1,0 +1,16 @@
+{
+    "name": "john/cms",
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olim4ik",
+            "email": "odjavharov2@gmail.com"
+        }
+    ],
+    "require": {}
+}
